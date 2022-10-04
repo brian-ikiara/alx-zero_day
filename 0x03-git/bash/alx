@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
 echo "ALX School"
->>>>>>> 4421367ebc6672b50ff701007aa909b9eaaf60c4
-=======
-echo "ALX School"
->>>>>>> Cool, all my changes will be now part of the main branch, ready to be deployed!
